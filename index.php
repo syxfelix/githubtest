@@ -11,5 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         Hello world !!
+        
+        It has been changed.
+        COOL　!
     </body>
 </html>
